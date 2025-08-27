@@ -27,11 +27,8 @@ Here is the plan as per the schedul:
 
 <img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
 
-# I mean update our whole plan it looks like in the plan we only have the syllabus related planning what about the field mastery and everything
+full upgraded study plan that starts with ANN and a parallel mastery path for the entire AIML field so you gain practical, in-depth expertise, not just exam preparation. This plan balances progression and full-spectrum AIML mastery, with the best resources for each area.
 
-Here is your **fully upgraded study plan** that integrates both your syllabus (starting with ANN) and a parallel mastery path for the entire AIML field—so you gain practical, in-depth expertise, not just exam preparation. This plan balances classroom progression and full-spectrum AIML mastery, with the best resources for each area.
-
-***
 
 # AIML + Syllabus Mastery Study Plan (Aug 25 – Nov 28, 2025)
 
@@ -48,11 +45,11 @@ Here is your **fully upgraded study plan** that integrates both your syllabus (s
 ## Weekly Schedule Structure
 
 | Time Allocation (Daily) | Syllabus Focus (Classroom) | Mastery Track (Field) | Practical Coding/Projects | Review/Notes |
-| :-- | :-- | :-- | :-- | :-- |
-| 1 hr (Classwork focus) | Immediate syllabus unit | — | — | — |
-| 45 min (Mastery block) | — | Math/AI/ML/DL theory | — | — |
-| 30 min (Practice block) | Syllabus topic | Mastery topic | Project/coding | — |
-| 15 min (Review block) | Recap of day | Recap/reflection | — | Notes |
+|           :--           |             :--            |          :--          |            :--            |     :--      |
+| 1 hr (Classwork focus)  | Immediate syllabus unit    |           —           |             —             |      —       |
+| 45 min (Mastery block)  |              —             | Math/AI/ML/DL theory  |             —             |      —       |
+| 30 min (Practice block) | Syllabus topic             | Mastery topic         | Project/coding            |      —       |
+| 15 min (Review block)   | Recap of day               | Recap/reflection      |             —             | Notes        |
 
 
 ***
