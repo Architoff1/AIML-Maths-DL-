@@ -1,7 +1,9 @@
 import numpy as np
 import tensorflow as tf
+from tensorflow import keras
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense
+
 
 gates = {
     "AND":{
@@ -40,7 +42,7 @@ models={}
 for gate,data in gates.items():
     print(f"Training model for {gate} gate...")
     model = create_ann()
-    model.fit(data["inputs"], data["outputs"], epoch=500, verbose=0)
+    model.fit(data["inputs"], data["outputs"], epochs=500, verbose=1)
     models[gate] = model
     print(f"Model for {gate} trainedl.\n")
 
